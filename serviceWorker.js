@@ -1,4 +1,4 @@
-var CACHE_NAME = 'awesome-quotes';
+var CACHE_NAME = 'awesome quotes';
 var urlsToCache = [
     './',
   './style.css',
